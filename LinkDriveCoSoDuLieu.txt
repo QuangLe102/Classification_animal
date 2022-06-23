@@ -1,0 +1,7 @@
+Data dùng để train model: https://drive.google.com/drive/folders/1e2SVOA04giTDrpP2SZ2KZd9KlwKr5QFB?usp=sharing
+Data file wav: https://drive.google.com/drive/folders/1w-4bAX49Lon0DF_swxwe332sgPZo3iok?usp=sharing
+Classification_CNN.pickle: https://drive.google.com/file/d/11P8QaGN8xYlXT8am8wWq572rDz4kGOHj/view?usp=sharing
+Classification.h5: https://drive.google.com/file/d/1jPm3qywTamgdd6QZLV0k-8BOjDFi05Pp/view?usp=sharing
+Báo cáo: https://drive.google.com/file/d/1jPm3qywTamgdd6QZLV0k-8BOjDFi05Pp/view?usp=sharing
+Bài báo: https://drive.google.com/file/d/1Oi9sDWG2o4NJYAQgMD8kiAV6BANPcIP9/view?usp=sharing
+Poster: https://drive.google.com/file/d/1T_H0IJ5tsNhF-61dY5eP2tEJ3csL5zqz/view?usp=sharing
